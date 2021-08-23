@@ -2,8 +2,8 @@
 
 requied installation
 
-opencv
-pyhton
-facenet
-flask
+opencv,
+pyhton,
+facenet.
+flask,
 have to downloade facenet models
